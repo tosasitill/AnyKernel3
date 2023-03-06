@@ -4,14 +4,13 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSU by SakuraKyuo
+kernel.string=KernelSU by SakuraKyuo/tosasitill
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sirius
-device.name2=xmsirius
+device.name1=polaris
 supported.versions=
 supported.patchlevels=
 '; } # end properties
